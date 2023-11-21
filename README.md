@@ -22,3 +22,6 @@ Para comenzar a utilizar la Tienda Areli en tu entorno local, sigue estos pasos:
   4. Inicia la aplicación en modo de desarrollo::  
        ```bash
      $ npm run dev
+## Test App
+
+   [Areli](https://final-react-eight.vercel.app)
